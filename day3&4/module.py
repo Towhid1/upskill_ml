@@ -1,18 +1,17 @@
 def calculate_sum(val1, val2):
-    '''
-    Calculate sum of val1 and val2
+    '''doc string
 
     Parameters
     ----------
-    val1 : int/float
-        First value
-    val1 : int/float
-        Second value
+    val1 : [type]
+        [description]
+    val2 : [type]
+        [description]
 
     Returns
     -------
-    int/float
-        sum of val1 and val2
+    [type]
+        [description]
     '''
     result = val1 + val2
     return result
